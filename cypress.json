@@ -1,0 +1,8 @@
+{
+    "integrationFolder": "cypress/integration/todoMVC",
+    "fixturesFolder": "cypress/fixtures",
+    "pluginsFile": "cypress/plugins",
+    "supportFile": "cypress/support",
+    "videosFolder": "cypress/videos",
+    "video": false
+}

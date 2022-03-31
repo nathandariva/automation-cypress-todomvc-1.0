@@ -1,0 +1,15 @@
+{
+  "name": "project_todomvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "Nathan Dariva",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "8.1.0"
+  }
+}
