@@ -6,7 +6,7 @@ O básico de automação utilizando o cypress:
 
 Passos Para Reproduzir em sua máquina:
 - 1º: Instalar o node.js em seu computador; 
-- 2º: Clonar o projeto - Executar este comando: "git clone nathandariva/automated-todomvc";
+- 2º: Clonar o projeto 
 - 3º: Instalar as dependências - Executar este comando: npm install;
 - 4º: Executar o teste - Executar este comando: npm run test:e2e;
 - 5º (Opcional): Caso queira acompanhar os testes no modo gráfico - Executar o comando: npx cypress open.
@@ -19,7 +19,7 @@ The basics of automation using cypress:
 
 Steps To Play On Your Machine:
 - 1st: Install node.js on your computer;
-- 2nd: Clone the project - Execute this command: "git clone nathandariva/automated-todomvc";
+- 2nd: Clone the project
 - 3rd: Install the dependencies - Run this command: npm install;
 - 4th: Run the test - Run this command: npm run test:e2e;
 - 5th (Optional): If you want to follow the tests in graphical mode - Run the command: npx cypress open.
