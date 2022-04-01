@@ -11,6 +11,9 @@ Passos Para Reproduzir em sua máquina:
 - 4º: Executar o teste - Executar este comando: npm run test:e2e;
 - 5º (Opcional): Caso queira acompanhar os testes no modo gráfico - Executar o comando: npx cypress open.
 
+Para ver como funcionaria com uma estrutura de projeto diferente (page objects) acesse:
+https://github.com/nathandariva/automation-cypress-todomvc-1.1
+
 
 ####### ENGLISH
 
@@ -23,5 +26,9 @@ Steps To Play On Your Machine:
 - 3rd: Install the dependencies - Run this command: npm install;
 - 4th: Run the test - Run this command: npm run test:e2e;
 - 5th (Optional): If you want to follow the tests in graphical mode - Run the command: npx cypress open.
+
+
+To see how it would work with a different project structure (page objects) go to:
+https://github.com/nathandariva/automation-cypress-todomvc-1.1
 
 
